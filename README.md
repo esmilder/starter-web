@@ -16,4 +16,4 @@ review.
 
 ### Copyrigt
 
-Git.Training
+Git.Training. All rights reserved.
