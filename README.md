@@ -9,4 +9,4 @@ this is a example commentary
 
 ### Copyrigt
 
-Git Training
+Git.Training
