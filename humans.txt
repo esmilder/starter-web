@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Esmilder Lopez  elopez@example.com  Senior Developer
 
 # THANKS
 
